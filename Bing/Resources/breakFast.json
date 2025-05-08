@@ -1,0 +1,66 @@
+[
+  {
+    "id": "bf001",
+    "name": "Pancakes",
+    "description": "Fluffy pancakes topped with maple syrup and butter",
+    "price": 8.99,
+    "image_url": "pancakes",
+    "is_available": true
+  },
+  {
+    "id": "bf002",
+    "name": "Avacado Toast",
+    "description": "Multigrain toast topped with smashed avocado, cherry tomatoes and feta",
+    "price": 10.99,
+    "image_url": "avacadoToast",
+    "is_available": true
+  },
+  {
+    "id": "bf003",
+    "name": "Eggs Benedict",
+    "description": "English muffin topped with Canadian bacon, poached eggs and hollandaise sauce",
+    "price": 12.99,
+    "image_url": "EggsBenedict",
+    "is_available": true
+  },
+  {
+    "id": "bf004",
+    "name": "Greek YogurtBowl",
+    "description": "Greek yogurt topped with fresh berries, honey and granola",
+    "price": 7.99,
+    "image_url": "YogurtBowl",
+    "is_available": true
+  },
+  {
+    "id": "bf005",
+    "name": "Breakfast Burrito",
+    "description": "Scrambled eggs, chorizo, black beans, cheese and salsa wrapped in a flour tortilla",
+    "price": 9.99,
+    "image_url": "BreakfastBurrito",
+    "is_available": true
+  },
+  {
+    "id": "bf006",
+    "name": "French Toast",
+    "description": "Thick slices of brioche bread dipped in cinnamon egg batter and grilled to perfection",
+    "price": 9.49,
+    "image_url": "FrenchToast",
+    "is_available": true
+  },
+  {
+    "id": "bf007",
+    "name": "Breakfast Sandwich",
+    "description": "Fried egg, cheddar cheese and bacon on a toasted brioche bun",
+    "price": 8.49,
+    "image_url": "BreakfastSandwich",
+    "is_available": true
+  },
+  {
+    "id": "bf008",
+    "name": "Acai Bowl",
+    "description": "Blended acai topped with sliced banana, strawberries, blueberries and granola",
+    "price": 11.99,
+    "image_url": "AcaiBowl",
+    "is_available": true
+  }
+]

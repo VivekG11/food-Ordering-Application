@@ -1,0 +1,75 @@
+
+[
+  {
+    "id": "bf001",
+    "name": "Flank steak London broil",
+    "description": "Fluffy pancakes topped with maple syrup and butter",
+    "price": 8.99,
+    "image_url": "Flank steak London broil",
+    "is_available": true
+  },
+  {
+    "id": "bf002",
+    "name": "Beer battered cod sandwich",
+    "description": "Multigrain toast topped with smashed avocado, cherry tomatoes and feta",
+    "price": 10.99,
+    "image_url": "codsandwich",
+    "is_available": true
+  },
+  {
+    "id": "bf003",
+    "name": "Garlic mashed potatoes",
+    "description": "English muffin topped with Canadian bacon, poached eggs and hollandaise sauce",
+    "price": 12.99,
+    "image_url": "Garlic mashed potatoes",
+    "is_available": true
+  },
+  {
+    "id": "bf004",
+    "name": "Roasted Brussels sprouts",
+    "description": "Greek yogurt topped with fresh berries, honey and granola",
+    "price": 7.99,
+    "image_url": "Roasted Brussels sprouts",
+    "is_available": true
+  },
+  {
+    "id": "bf005",
+    "name": "Marinated Portobello",
+    "description": "Scrambled eggs, chorizo, black beans, cheese and salsa wrapped in a flour tortilla",
+    "price": 9.99,
+    "image_url": "Marinated Portobello",
+    "is_available": true
+  },
+  {
+    "id": "bf006",
+    "name": "Grilled chicken",
+    "description": "Thick slices of brioche bread dipped in cinnamon egg batter and grilled to perfection",
+    "price": 9.49,
+    "image_url": "Grilled chicken",
+    "is_available": true
+  },
+  {
+    "id": "bf007",
+    "name": "Pinto Beans",
+    "description": "Fried egg, cheddar cheese and bacon on a toasted brioche bun",
+    "price": 8.49,
+    "image_url": "Pinto Beans",
+    "is_available": true
+  },
+  {
+    "id": "bf008",
+    "name": "Ham burger",
+    "description": "Blended acai topped with sliced banana, strawberries, blueberries and granola",
+    "price": 11.99,
+    "image_url": "Ham burger",
+    "is_available": true
+  },
+  {
+    "id": "bf008",
+    "name": "Beyond burger",
+    "description": "Blended acai topped with sliced banana, strawberries, blueberries and granola",
+    "price": 11.99,
+    "image_url": "Beyond burger",
+    "is_available": true
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "data" :  [
+        {
+        "img": "slideImg1",
+        "description": "Chenango Champlain Collegiate Center"
+        },
+        {
+          "img": "ciw",
+          "description": "Hinman Dining Hall"
+        },
+        {
+            "img": "cc",
+            "description": "Market Place"
+        },
+        {
+            "img": "Hallway",
+            "description": "Applachian Dining Hall"
+        }
+        
+        
+    ]
+}

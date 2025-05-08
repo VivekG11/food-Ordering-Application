@@ -1,0 +1,6 @@
+framework module Pods_Bing {
+  umbrella header "Pods-Bing-umbrella.h"
+
+  export *
+  module * { export * }
+}

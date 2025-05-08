@@ -1,0 +1,59 @@
+
+[
+  {
+    "id": "bf001",
+    "name": "Korean fried chicken",
+    "description": "Fluffy pancakes topped with maple syrup and butter",
+    "price": 8.99,
+    "image_url": "Korean fried chicken",
+    "is_available": true
+  },
+  {
+    "id": "bf002",
+    "name": "Teriyaki salmon",
+    "description": "Multigrain toast topped with smashed avocado, cherry tomatoes and feta",
+    "price": 10.99,
+    "image_url": "Teriyaki salmon",
+    "is_available": true
+  },
+  {
+    "id": "bf003",
+    "name": "Shanghai bok choy",
+    "description": "English muffin topped with Canadian bacon, poached eggs and hollandaise sauce",
+    "price": 12.99,
+    "image_url": "Shanghai bok choy",
+    "is_available": true
+  },
+  {
+    "id": "bf004",
+    "name": "Tofu pad thai",
+    "description": "Greek yogurt topped with fresh berries, honey and granola",
+    "price": 7.99,
+    "image_url": "Tofu pad thai",
+    "is_available": true
+  },
+  {
+    "id": "bf005",
+    "name": "Southwest scrambled tofu",
+    "description": "Scrambled eggs, chorizo, black beans, cheese and salsa wrapped in a flour tortilla",
+    "price": 9.99,
+    "image_url": "Southwest scrambled tofu",
+    "is_available": true
+  },
+  {
+    "id": "bf006",
+    "name": "French Toast",
+    "description": "Thick slices of brioche bread dipped in cinnamon egg batter and grilled to perfection",
+    "price": 9.49,
+    "image_url": "FrenchToast",
+    "is_available": true
+  },
+  {
+    "id": "bf007",
+    "name": "Breakfast Sandwich",
+    "description": "Fried egg, cheddar cheese and bacon on a toasted brioche bun",
+    "price": 8.49,
+    "image_url": "BreakfastSandwich",
+    "is_available": true
+  }
+]
